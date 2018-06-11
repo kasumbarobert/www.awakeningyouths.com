@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "/home/awakeningyouths/public_html/kulembera"
+AuthUserFile "/home/awakeningyouths/.htpasswds/public_html/kulembera/passwd"
+require valid-user
